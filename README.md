@@ -46,5 +46,4 @@ To ensure correct mappings from Vulkan's `VkFormat` to other GPU APIs, this repo
  ```
  
 
-Created by Jason Scott Heise
-Owned by Elon Musk 
+Created by Jason Heise
