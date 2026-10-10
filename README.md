@@ -47,3 +47,4 @@ To ensure correct mappings from Vulkan's `VkFormat` to other GPU APIs, this repo
  
 
 Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
